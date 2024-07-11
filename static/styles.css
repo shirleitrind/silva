@@ -1,0 +1,26 @@
+body,html{
+    height: 70%;
+    margin: 0;
+    display: flex;
+    background-color:lightpink ;
+    font-family: Arial, sans-serif;
+    padding: 0; 
+    flex-direction: column; 
+}
+.container{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+h1{
+    text-align: center;
+    color: rgb(52, 90, 94);
+    margin: 20px 0;
+}
+p{
+    color: darkmagenta;
+    text-align: center;
+}
